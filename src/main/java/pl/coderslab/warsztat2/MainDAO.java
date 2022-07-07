@@ -11,7 +11,7 @@ public class MainDAO {
         user.setPassword("blabla");
         user.setEmail("mario@.wp");
 
-        System.out.println();
+        System.out.println("testowanie");
 
 
 

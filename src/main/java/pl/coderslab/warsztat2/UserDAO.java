@@ -1,7 +1,8 @@
 package pl.coderslab.warsztat2;
 
 import org.mindrot.jbcrypt.BCrypt;
-import pl.coderslab.warsztat2.DbUtil;
+import pl.coderslab.utils.DbUtil;
+import pl.coderslab.utils.DbUtil;
 import pl.coderslab.warsztat2.User;
 
 import java.sql.*;
